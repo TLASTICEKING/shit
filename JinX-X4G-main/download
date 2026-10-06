@@ -1,8 +1,0 @@
-.git
-*.md
-*.svg
-*.png
-*.txt
-*.zip
-__pycache__/
-*.pyc
